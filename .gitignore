@@ -1,3 +1,6 @@
 _harness
 .vscode
 .idea
+Gopkg.lock
+Gopkg.toml
+vendor
